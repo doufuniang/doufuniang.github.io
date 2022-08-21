@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://doufuniang.github.io</id>
+    <title>豆腐酿</title>
+    <updated>2022-08-21T13:28:08.285Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://doufuniang.github.io"/>
+    <link rel="self" href="https://doufuniang.github.io/atom.xml"/>
+    <subtitle>学不可以已</subtitle>
+    <logo>https://doufuniang.github.io/images/avatar.png</logo>
+    <icon>https://doufuniang.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 豆腐酿</rights>
+    <entry>
+        <title type="html"><![CDATA[开始]]></title>
+        <id>https://doufuniang.github.io/post/kai-shi/</id>
+        <link href="https://doufuniang.github.io/post/kai-shi/">
+        </link>
+        <updated>2022-07-21T13:12:09.000Z</updated>
+        <content type="html"><![CDATA[<p>年近而立，准备新的开始。</p>
+]]></content>
+    </entry>
+</feed>
